@@ -1,0 +1,2 @@
+
+curl -s https://636366ba0dee3b1b4340b5646e051c9da6653c23b29d63b7:@packagecloud.io/install/repositories/Ananda/internal/script.deb.sh | sudo bash
